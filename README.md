@@ -35,7 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/68506750/198299321-61a1f594-27de-4681-87d3-20b13cddf720.png)
 
-3)Дефолтная
+3) Стандартная тема
 
 ![image](https://user-images.githubusercontent.com/68506750/198299440-1ff7addf-0673-45b0-97df-e2f5be441977.png)
 
