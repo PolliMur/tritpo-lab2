@@ -31,7 +31,7 @@
 # 2 Варианты использования
 
 Use Case диаграммы приложения "# MegaReminder бот для Telegram":
-![Диалог добавления напоминания](../../../Images/System%20design/UseCase/use.png)
+![image](https://user-images.githubusercontent.com/68506750/203152593-808b70e5-c67f-495f-a9ff-942d96063009.png)
 
 
 <a name="sync_time"/>
