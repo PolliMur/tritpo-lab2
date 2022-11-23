@@ -53,5 +53,7 @@ Use Case диаграммы приложения "Avia tickets":
 
 ![ыефеу vpd](https://user-images.githubusercontent.com/68506750/203614031-42654cfd-c6a4-4784-b9fd-52e244456e53.jpg)
 
+# Components and Deployment
 
+![Components vpd](https://user-images.githubusercontent.com/68506750/203618941-fe10814e-f342-4b14-a4cb-2b9b29123988.jpg)
 
