@@ -47,6 +47,8 @@ Use Case диаграммы приложения "Avia tickets":
 
 # Sequence
 
+![Sequence vpd](https://user-images.githubusercontent.com/68506750/203616654-11b6eba3-a2a4-4b32-a5a6-2e46052dfbcc.jpg)
+
 # State
 
 ![ыефеу vpd](https://user-images.githubusercontent.com/68506750/203614031-42654cfd-c6a4-4784-b9fd-52e244456e53.jpg)
