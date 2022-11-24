@@ -36,7 +36,7 @@
 5. Сохранение содержимого корзины при выходе с сайта.
 
 ## 2 Нефункциональные требования
-1. Версия React.js 16.0 и выше.
+1. Версия React.js 16.0.
 2. Поддерживаемые браузеры: Google Chrome версии 96.0 и выше, Mozilla Firefox версии 98.0 и выше, Opera версии 70.0 и выше, Microsoft Edge версии 100 и выше
 3. Язык приложения английский.
 
@@ -58,7 +58,7 @@
 
 Use Case диаграммы приложения "Avia tickets":
 
-![useCase vpd](https://user-images.githubusercontent.com/68506750/203750388-0392d2bf-1793-43aa-a375-48d10a605152.jpg)
+![useCase vpd (1)](https://user-images.githubusercontent.com/68506750/203756617-b03207af-a13b-415a-bdd6-ea0c16c8ea27.jpg)
 
 ### 2.1 Поиск билетов
 
@@ -78,15 +78,15 @@ Use Case диаграммы приложения "Avia tickets":
 
 # Диаграммы активностей
 
-![activityvpd vpd](https://user-images.githubusercontent.com/68506750/203612706-d2044042-e01e-4663-afe3-75cb28da5ba2.jpg)
+![activityvpd vpd](https://user-images.githubusercontent.com/68506750/203758042-6a535b62-57a5-4810-a9a5-0845e737eb73.jpg)
 
 # Диаграммы последовательностей
 
-![Sequence vpd](https://user-images.githubusercontent.com/68506750/203616654-11b6eba3-a2a4-4b32-a5a6-2e46052dfbcc.jpg)
+![Sequence vpd](https://user-images.githubusercontent.com/68506750/203759821-1f36aae1-90fb-4d01-b588-74d6f66b28f1.jpg)
 
 # Диаграммы состояний
 
-![ыефеу vpd](https://user-images.githubusercontent.com/68506750/203614031-42654cfd-c6a4-4784-b9fd-52e244456e53.jpg)
+![state vpd](https://user-images.githubusercontent.com/68506750/203758654-86e1995f-23cf-468e-96fe-70dbedfa0467.jpg)
 
 # Диаграмма классов
 
