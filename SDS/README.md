@@ -53,7 +53,7 @@
 
 Use Case диаграммы приложения "Avia tickets":
 
-![image](https://user-images.githubusercontent.com/68506750/203152593-808b70e5-c67f-495f-a9ff-942d96063009.png)
+![useCase vpd](https://user-images.githubusercontent.com/68506750/203750388-0392d2bf-1793-43aa-a375-48d10a605152.jpg)
 
 ### 2.1 Поиск билетов
 
